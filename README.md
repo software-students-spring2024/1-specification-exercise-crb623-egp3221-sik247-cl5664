@@ -8,7 +8,7 @@ Christina Borao: [Github](https://github.com/crb623)
 
 Ellis Pinsky: [Github](https://github.com/ellispinsky)
 
-Henry: [Github](https://github.com/Sik247)
+Sang In (Harry) Kang: [Github](https://github.com/Sik247)
 
 Corina Luca: [Github](https://github.com/CorinaLucaFocsan)
 
