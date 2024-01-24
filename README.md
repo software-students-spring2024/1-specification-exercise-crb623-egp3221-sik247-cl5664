@@ -5,8 +5,11 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Christina Borao: [Github](https://github.com/crb623)
+
 Ellis Pinsky: [Github](https://github.com/ellispinsky)
+
 Henry: [Github](https://github.com/Sik247)
+
 Corina Luca: [Github](https://github.com/CorinaLucaFocsan)
 
 ## Stakeholders
