@@ -38,8 +38,11 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+User Story #1 - Applying To jobs
+![Alt text](Activity1.png)
 
+User Story #2 
+![Alt txt](Activity2.png)
 ## Wireframe
 https://excalidraw.com/#json=-bwTEwJIS3kKtmOawn92m,kuQpEw3y3Cmdtoy7dcG1SQ
 
