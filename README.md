@@ -14,9 +14,7 @@ Corina Luca: [Github](https://github.com/CorinaLucaFocsan)
 
 ## Stakeholders
 
-Our users are college students searching for internships. We interviewed college students - not direct friends.
-
-Our stakeholders are anxious and classify themselves as overthinkers. They do not like how formal current platforms are. 
+Our target audience consists of college students actively looking for internship opportunities. These insights are based on conversations with a diverse group of college students outside our immediate social circles. Our stakeholders, who identify as individuals prone to overthinking, have expressed concerns regarding the overly formal nature of existing platforms.
 
 ## Product Vision Statement
 
