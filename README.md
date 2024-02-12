@@ -18,7 +18,7 @@ Our users are college students searching for internships. We interviewed college
 
 ## Product Vision Statement
 
-We envision an application that will function in a more casual manner but will allow students to professionally connect with companies. This will enable students to find internships in an environment that is less stressful.
+We aim to create a user-friendly app that facilitates professional networking between students and companies for a less stressful internship search.
 
 ## User Requirements
 1. `As a new user, I want to provide necessary information like a username, email, and password so that I can create a new account.`
