@@ -14,11 +14,11 @@ Corina Luca: [Github](https://github.com/CorinaLucaFocsan)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Our users are college students searching for internships. We interviewed college students that we know.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+We envision an application that will function in a more casual manner, but will allow students to professionally connect with companies. This will enable students to find internships in an environment that is less stressful.
 
 ## User Requirements
 1. `As a new user, I want to provide necessary information like a username, email, and password so that I can create a new account.`
