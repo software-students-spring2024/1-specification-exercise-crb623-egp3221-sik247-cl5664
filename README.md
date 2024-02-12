@@ -16,6 +16,8 @@ Corina Luca: [Github](https://github.com/CorinaLucaFocsan)
 
 Our users are college students searching for internships. We interviewed college students - not direct friends.
 
+Our stakeholders are anxious and classify themselves as overthinkers. They do not like how formal current platforms are. 
+
 ## Product Vision Statement
 
 We aim to create a user-friendly app that facilitates professional networking between students and companies for a less stressful internship search.
