@@ -44,7 +44,7 @@ User Story #1 - Applying To jobs
 User Story #2 
 ![Alt txt](Activity2.png)
 ## Wireframe
-https://excalidraw.com/#json=-bwTEwJIS3kKtmOawn92m,kuQpEw3y3Cmdtoy7dcG1SQ
+[Wireframe](https://excalidraw.com/#json=-bwTEwJIS3kKtmOawn92m,kuQpEw3y3Cmdtoy7dcG1SQ)
 
 ## Clickable Prototype
 
